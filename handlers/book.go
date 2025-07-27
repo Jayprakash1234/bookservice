@@ -1,9 +1,10 @@
 package handlers
 
 import (
-	"bookservice/database"
-	"bookservice/models"
 	"net/http"
+
+	"github.com/Jayprakash1234/bookservice/database"
+	"github.com/Jayprakash1234/bookservice/models"
 
 	"github.com/gin-gonic/gin"
 )

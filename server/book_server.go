@@ -1,10 +1,11 @@
 package server
 
 import (
-	"bookservice/database"
-	"bookservice/models"
-	"bookservice/pb"
 	"context"
+
+	"github.com/Jayprakash1234/bookservice/database"
+	"github.com/Jayprakash1234/bookservice/models"
+	"github.com/Jayprakash1234/bookservice/pb"
 )
 
 type BookServer struct {

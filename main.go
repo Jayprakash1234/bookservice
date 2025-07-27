@@ -1,11 +1,12 @@
 package main
 
 import (
-	"bookservice/database"
-	"bookservice/pb"
-	"bookservice/server"
 	"log"
 	"net"
+
+	"github.com/Jayprakash1234/bookservice/database"
+	"github.com/Jayprakash1234/bookservice/pb"
+	"github.com/Jayprakash1234/bookservice/server"
 
 	"google.golang.org/grpc"
 )
