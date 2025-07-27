@@ -1,4 +1,4 @@
-module bookservice
+module github.com/Jayprakash1234/bookservice
 
 go 1.24.1
 
